@@ -51,17 +51,6 @@ Atualmente, também estou expandindo meus conhecimentos na área de desenvolvime
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Conecte-se comigo
 
 <p align="left">
